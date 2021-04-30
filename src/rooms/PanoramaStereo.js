@@ -40,7 +40,7 @@ export function setup(ctx) {
 }
 
 export function enter(ctx) {
-  ctx.renderer.setClearColor(0x000000);
+  ctx.renderer.setClearColor(0xc8d4dc);
   ctx.camera.add(scene);
   //ctx.scene.add(panoL);
   //ctx.scene.add(panoR);

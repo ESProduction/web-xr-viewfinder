@@ -2,7 +2,7 @@ import * as THREE from 'three';
 
 export default {
   //viewfinder
-  stereo_planes: { url: 'stereo_planes.glb' },
+  stereo_planes: { url: 'stereo_planes2.glb' },
   
   // hall
   foxr_tex: { url: 'foxr.png', options: { encoding: THREE.sRGBEncoding, flipY: false} },
